@@ -1,9 +1,9 @@
 {
-  "name": "Man-Userbot",
-  "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "name": "Diyo",
+  "description": "[Diyo] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "logo": "https://telegra.ph/file/3307384c293f7f54ed723.jpg",
   "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
-  "repository": "https://github.com/mrismanaziz/Man-Userbot",
+  "repository": "https://github.com/masjarwo123/Diyo",
   "telegram": ["https://t.me/mrismanaziz", "https://t.me/tofik_dn"],
   "success_url": "https://t.me/Lunatic0de",
   "stack": "container",

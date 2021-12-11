@@ -207,7 +207,7 @@ ALIVE_TEKS_CUSTOM = os.environ.get("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
 ALIVE_NAME = os.environ.get("ALIVE_NAME", "Diyo")
 
 # Custom Emoji Alive
-ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "😜")
+ALIVE_EMOJI = os.environ.get("ALIVE_EMOJI", "👿")
 
 # Custom Emoji Alive
 INLINE_EMOJI = os.environ.get("INLINE_EMOJI", "✔︎")
@@ -517,9 +517,9 @@ with bot:
                 result = builder.article(
                     title="Repository",
                     description="Repository Diyo",
-                    url="https://t.me/SharingUserbot",
+                    url="https://t.me/kalongclub",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text="**Diyo**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Diyo](https://t.me/dewaslow)\n✣ **Support :** @Lunatic0de\n✣ **Repository :** [Diyo](https://github.com/masjarwo123/Diyo)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**Diyo**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Diyo](https://t.me/dewaslow)\n✣ **Support :** @chipmunkchanel\n✣ **Repository :** [Diyo](https://github.com/masjarwo123/Diyo)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/kalongclub"),
@@ -536,7 +536,7 @@ with bot:
                     description="Diyo | Telethon",
                     url="https://t.me/kalongclub",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text=f"**Diyo**\n➖➖➖➖➖➖➖➖➖➖\n✣ **UserMode:** [{user.first_name}](tg://user?id={user.id})\n✣ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @Lunatic0de\n➖➖➖➖➖➖➖➖➖➖",
+                    text=f"**Diyo**\n➖➖➖➖➖➖➖➖➖➖\n✣ **UserMode:** [{user.first_name}](tg://user?id={user.id})\n✣ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @chipmunkchanel\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
                             custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/kalongclub"),
